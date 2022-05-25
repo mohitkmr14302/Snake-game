@@ -6,4 +6,4 @@ There are four level of difficulty in this game. You can adjust your difficulty 
  Medium    ->  25,
  Hard      ->  40,
  Harder    ->  60,
- Impossible->  120,
+ Impossible->  120
